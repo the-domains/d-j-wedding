@@ -1,14 +1,14 @@
 name: D&J Wedding
-layout_spectrum: 0.0800094595383376
-typography_spectrum: 0.6519393878452767
+layout_spectrum: 0.5893317041918635
+typography_spectrum: 0.632694595027715
 color:
   brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
-  brandStrength: 0.0015767922289954273
-  lightness: 0.9363730103210541
-  saturation: 0.8163308309099971
-  rhythmicContrast: 0.5614210597570095
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+  brandStrength: 0.5705724719446152
+  lightness: 0.5854077336844057
+  saturation: 0.981048405636102
+  rhythmicContrast: 0.19189539132639766
